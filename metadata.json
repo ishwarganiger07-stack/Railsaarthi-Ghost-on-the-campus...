@@ -1,0 +1,8 @@
+{
+  "name": "RailSaarthi - Indian Railway Assistant",
+  "description": "Smart all-in-one Indian Railways travel companion with live train status, PNR confirmation prediction, coach positioning, platform locator, and AI travel assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
